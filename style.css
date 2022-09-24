@@ -390,7 +390,7 @@ p {
 .slick-dots li button {
 	background: transparent;
 	border: none;
-	color: #959595;
+	color: #2E2E35;
 	font-family: 'Open sans',sans-serif;
 	font-size: 23px;
 	font-weight: 800;
@@ -1016,10 +1016,10 @@ p {
     line-height: 24px;
   }
 
-  .slick-dots .slick-active {
+  /*.slick-dots .slick-active {
     top: 90.5%;
     right: 8%;
-  }
+  }*/
 
   .slick-dots li button {
     font-size: 16px;
@@ -1136,10 +1136,10 @@ p {
     top: 90%;
   }
 
-  .slick-dots .slick-active {
+  /*.slick-dots .slick-active {
     top: 90%;
     right: 10.7%;
-  }
+  }*/
 
   .into-area {
     display: none;
@@ -1273,9 +1273,9 @@ p {
     top: 90%;
   }
 
-  .slick-dots .slick-active {
+  /*.slick-dots .slick-active {
     top: 90%;
-  }
+  }*/
 
   .into-area {
     display: none;
